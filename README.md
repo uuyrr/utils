@@ -1,5 +1,5 @@
 # utils
 
-A small collection of utility scripts and snippets.
+Personal utils — notes, snippets, and experiments.
 
-- `hello.js` — example
+Last touched: 2026-08-24
