@@ -1,2 +1,5 @@
 # utils
-Small utility scripts and snippets
+
+A small collection of utility scripts and snippets.
+
+- `hello.js` — example
